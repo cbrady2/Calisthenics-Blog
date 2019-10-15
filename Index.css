@@ -4,7 +4,7 @@ font-size: medium;
 color: Red;
 }
 .fit {
-  max-width: 99%;
-  max-height: 99%;
+  max-width: 50%;
+  max-height: 50%;
 }
-<img class="fit" src="pic.png">
+<img class="fit" src="https://www.goodhealthplanning.com/wp-content/uploads/2017/02/Pull-up.jpg">
