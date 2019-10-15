@@ -3,8 +3,8 @@ font-family: sans-serif:
 font-size: medium;
 color: Red;
 }
-h1, h2 {
-    /*color:gray;*/
-    color: #007e7e;
-    /*font-family:sans-serif;*/
+.fit {
+  max-width: 99%;
+  max-height: 99%;
 }
+<img class="fit" src="pic.png">
