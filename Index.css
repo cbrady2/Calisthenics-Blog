@@ -4,11 +4,11 @@ font-size: large;
 color: black;
 }
 img.resize {
-  width:200px;
-  height:200px;
+  width:300px;
+  height:300px;
 }
 
 img.resize {
-  max-width:75%;
-  max-height:75%;
+  max-width:85%;
+  max-height:85%;
 }
